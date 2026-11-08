@@ -46,3 +46,6 @@ A: Blue - Entertainment: Japanese Anime & Manga
 Auto Quiz - Ninja 🧠
 Q: Which member of the British pop group "The Spice Girls" was known as Ginger Spice?
 A: Geri Halliwell - Entertainment: Music
+Auto Quiz - China 🧠
+Q: Which NBA player won Most Valuable Player for the 1999-2000 season?
+A: Shaquille O'Neal - Sports
