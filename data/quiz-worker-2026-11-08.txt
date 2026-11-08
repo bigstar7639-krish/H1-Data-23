@@ -121,3 +121,6 @@ A: 1833 - General Knowledge
 Auto Quiz - Water 🧠
 Q: What is the capital of Spain?
 A: Madrid - Geography
+Auto Quiz - Coffee 🧠
+Q: Which former Star Trek actor directed Three Men and a Baby (1987)?
+A: Leonard Nimoy - Entertainment: Film
