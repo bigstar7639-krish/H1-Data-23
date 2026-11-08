@@ -87,3 +87,4 @@ Snow - twitch-chat-498145510 - Twitch chat logs from Snow_lul
 Fire - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
 Fire - bwb_S0-EKX-605 - the fire and the wood
 Earth - bwb_S0-DCJ-390 - "New Heavens and A new Earth"
+Earth - bwb_KU-566-930 - Reduction of transhorizon radio interference in satellite earth stations
