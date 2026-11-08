@@ -58,3 +58,4 @@ New York - Wikimedia - https://commons.wikimedia.org/wiki/File:New_York_City_(Ne
 New York - Wikimedia - https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_New_York_City,_20231003_1511_1973.jpg
 New York - Wikimedia - https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Manhattan,_Skyline_--_2012_--_6680.jpg
 New York - Unsplash - https://source.unsplash.com/800x600/?New%20York%20street
+New York - Openverse - https://www.flickr.com/photos/54498728@N00/10239962943
