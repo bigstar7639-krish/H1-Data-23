@@ -67,3 +67,6 @@ A: 16 - Geography
 Auto Quiz - Chinese Culture 🧠
 Q: Who wrote "The Scarlet Letter", published in 1850?
 A: Nathaniel Hawthorne - Entertainment: Books
+Auto Quiz - Dragon 🧠
+Q: How many Millibars (mbar) to 1 Inch of Mercury (inHg)
+A: 33.9 - Science: Mathematics
