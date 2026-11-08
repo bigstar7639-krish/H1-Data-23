@@ -55,3 +55,6 @@ A: Walter White - Entertainment: Television
 Auto Quiz - Panda 🧠
 Q: Which Pokémon can learn the move "Secret Power" by leveling up?
 A: Audino - Entertainment: Video Games
+Auto Quiz - Chinese Food 🧠
+Q: The RMS Titanic sunk during her maiden voyage from Southampton, England to which American city?
+A: New York City - History
