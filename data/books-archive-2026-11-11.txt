@@ -260,3 +260,7 @@ Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 Thirukkural - thirukkural-solladaivoo-ccrd - Thirukkural Solladaivoo CCRD
 Thirukkural - thirukkural-express-2025-october-2-self-respect-movement-centenary-special - Thirukkural Express 2025 October 2 Self Respect Movement Centenary Special
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
+Pazhamozhi - in.ernet.dli.2015.384847 - Pazhamozhi Botham
+Joke - justsayyestolaug0000bhat - Just say "Yes" to laughing your way to fitness with yoga and meditation (and that's no joke)
+Joke - jokeisonyou0000nish - The joke is on you
