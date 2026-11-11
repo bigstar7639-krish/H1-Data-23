@@ -81,3 +81,5 @@ Tea - Unsplash - https://source.unsplash.com/800x600/?Tea%20evening
 Tea - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=40741419
 Tea - Openverse - https://www.flickr.com/photos/19144217@N00/272973646
 Tea - Openverse - https://www.flickr.com/photos/38102750@N06/8701572335
+Tea - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=187544465
+Tea - Openverse - https://www.flickr.com/photos/32335956@N06/4197497303
