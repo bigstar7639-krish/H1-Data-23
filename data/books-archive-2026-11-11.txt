@@ -86,3 +86,5 @@ Egypt - bwb_S0-AWS-054 - A Passage to Egypt : The Life of Lucie Duff Gordon
 Egypt - bwb_S0-BVO-115 - everyday life in ancient egypt
 Pyramids - pyramidsofegypt0000unse_o6c1 - The Pyramids of Egypt
 Pyramids - bwb_C0-AVA-333 - From the Pyramids to Paul
+Taj Mahal - bwb_KV-445-063 - THE TAJ MAHAL
+Taj Mahal - eparlib.nic.in.737059 - Alleged felling of a number of trees near Taj Mahal, a world heritage site in Agra, U.P. (22-Jul-2009)
