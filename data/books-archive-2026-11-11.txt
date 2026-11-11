@@ -154,3 +154,5 @@ Chinese Food - chinesefoodnutri0000zhon - Chinese Food Nutrition First: porridge
 Chinese Food - foodchinesewayzh0000loke - Food the Chinese way = Zhongguo cai
 Chinese Temple - CatalogueOfTheImportantPrivateCollectionOfAncientChineseTemple - Catalogue of the important private collection of ancient Chinese temple paintings belonging to Mrs. Benjamin Thaw
 Chinese Temple - Huiju_Temple_Plans - Chinese Buddhist monasteries; Huiju Temple Plans
+Shanghai - bwb_S0-AZK-293 - SHANGHAI LOST JERUSALEM REGAINED
+Shanghai - goldenstarofshan0000clif - The Golden Star of Shanghai: California and its rise from the Gold Rush
